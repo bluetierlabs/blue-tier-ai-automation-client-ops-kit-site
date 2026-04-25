@@ -137,6 +137,15 @@ button {
   border: 1px solid rgba(115, 231, 255, 0.24);
 }
 
+.ops-card img {
+  display: block;
+  width: 100%;
+  margin-bottom: 18px;
+  border-radius: 18px;
+  border: 1px solid rgba(115, 231, 255, 0.18);
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.36);
+}
+
 .ops-card span {
   color: var(--orange);
   text-transform: uppercase;
